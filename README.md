@@ -18,3 +18,5 @@ The robot uses an MPU6050 IMU sensor to measure its tilt angle and angular veloc
 Arduino Uno reads this data and runs a PID control algorithm to compute corrective signals.
 These signals are sent to an L298N motor driver which drives the two motors, keeping the
 robot balanced.
+# Link of Report
+https://drive.google.com/file/d/1_QKeiG6s6SoUNiaWwwseHje50wKWw2GT/view?usp=sharing
